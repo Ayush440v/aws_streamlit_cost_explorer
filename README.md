@@ -50,8 +50,8 @@ To access the AWS Cost Explorer API, you need appropriate permissions. You can e
 Clone this repository to your local machine:
 
 ```bash
-git clone [repository_url]
-cd [repository_directory]
+git clone [https://github.com/Ayush440v/aws_streamlit_cost_explorer.git]
+cd [aws_streamlit_cost_explorer-main]
 ```
 
 #### 2. Install Dependencies
